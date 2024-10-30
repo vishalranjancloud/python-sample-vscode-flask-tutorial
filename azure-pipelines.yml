@@ -8,5 +8,5 @@ steps:
 - script: echo Hello, world!
   displayName: 'Run a one-line script'
 
-- script: type "D:\azure\config.xml"
+- script: type "C:\Users\user\azure\config.txt"
   displayName: 'Read and display file content'
