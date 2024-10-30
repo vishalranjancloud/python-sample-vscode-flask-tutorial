@@ -1,5 +1,6 @@
 trigger:
 - main
+# adding comment
 
 pool:
   name: 'Default'
